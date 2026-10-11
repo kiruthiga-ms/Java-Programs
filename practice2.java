@@ -2,7 +2,7 @@ package javapractice;
 import java.util.Scanner;
 public class practice2{
 	public static void main(String[]args) {
-	    /*
+	    
 		//Question 1
 		System.out.println("Hello World");
 		
@@ -58,34 +58,34 @@ public class practice2{
 		r=temp;
 		System.out.println("After swap:q="+q+",r=" +r);
 		sc.close();
-		*/
 		
-		/*
+		
+		
 		//Question7
 		Scanner sc=new Scanner (System.in);
 		System.out.println("Enter the kilometer distance:");
 		double km=sc.nextDouble();
 		double mile=km*0.63;30
 		System.out.println("Miles:"+mile);
-		*/
-		/*
+		
+		
 		//Question8
 		Scanner sc=new Scanner(System.in);
 		System.out.println("Enter the celcius:");
 		double celsius=sc.nextDouble();
 		double Farenheit=(celsius*1.8)+32;
 		System.out.println("Enter the Farenheit:"+Farenheit);
-		*/
 		
 		
-		/*
+		
+		
 		//Question9
 		Scanner sc=new Scanner(System.in);
 		System.out.println("Enter the Number:");
 		int number=sc.nextInt();
 		int lasttwoDigit=number%10;
 		System.out.println("LastDigit:"+lasttwoDigit);
-		*/
+		
 		
 		//Question10
 		Scanner sc=new Scanner(System.in);
@@ -95,7 +95,7 @@ public class practice2{
 	    System.out.println("Enter the last two digit:"+lasttwointeger);
 	    
 		
-		/*
+		
 		//Question11
 		Scanner sc=new Scanner(System.in);
 		System.out.println("Enter the Number:");
@@ -103,7 +103,7 @@ public class practice2{
 		int middleDigit=(number/100)%10;
 		int square=middleDigit*middleDigit;
 		System.out.println("The square"+middleDigit+"is:"+square);
-        */
+        
 		
 
 		
